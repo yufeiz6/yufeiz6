@@ -10,8 +10,8 @@
 
 <br/>
 
-<!-- All-time stats (commits/stars/forks since account creation) -->
-<img src="https://github-readme-stats.vercel.app/api?username=yufeiz6&include_all_commits=true&count_private=true&show_icons=true&theme=vue&hide_border=true" alt="all-time stats: commits, stars, contributions" width="60%" />
+<!-- All-time stats: Total Stars / Commits / PRs / Issues since account creation -->
+<img src="./profile-summary-card-output/vue/3-stats.svg" alt="all-time stats: total commits, stars, PRs, issues" width="60%" />
 
 <br/>
 
