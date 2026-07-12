@@ -21,7 +21,6 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
           UTC_OFFSET: 8
-          THEME: vue
       - name: Commit & Push
         run: |
           git config user.name github-actions

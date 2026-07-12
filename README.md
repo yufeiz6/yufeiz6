@@ -5,8 +5,8 @@
 <br/>
 
 <!-- Languages donut + pentagon (radar) side by side -->
-<img src="./github-profile-summary-cards-output/profile-summary-card-output/vue/1-repos-per-language.svg" alt="repos per language (donut)" width="49%" />
-<img src="./github-profile-summary-cards-output/profile-summary-card-output/vue/2-most-commit-language.svg" alt="most commit language (pentagon)" width="49%" />
+<img src="./profile-summary-card-output/vue/1-repos-per-language.svg" alt="repos per language (donut)" width="49%" />
+<img src="./profile-summary-card-output/vue/2-most-commit-language.svg" alt="most commit language (pentagon)" width="49%" />
 
 <br/>
 
@@ -16,6 +16,6 @@
 <br/>
 
 <!-- Bottom card -->
-<img src="./github-profile-summary-cards-output/profile-summary-card-output/vue/4-productive-time.svg" alt="productive time" width="99%" />
+<img src="./profile-summary-card-output/vue/4-productive-time.svg" alt="productive time" width="99%" />
 
 </div>
