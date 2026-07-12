@@ -1,17 +1,21 @@
-# 👋 Hey! Nice to see you.
+<div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yufeiz6&theme=onedark&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643508985/39092/cat-roll.gif?1643508985" width="30"/> Hey! Nice to see you.</h1>
 
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+<br/>
 
-<img src="./github-profile-summary-cards-output/profile-summary-card-output/vue-dark/0-profile-details.svg" alt="profile details" />
-<img src="./github-profile-summary-cards-output/profile-summary-card-output/vue-dark/1-repos-per-language.svg" alt="languages" />
-<img src="./github-profile-summary-cards-output/profile-summary-card-output/vue-dark/2-most-commit-language.svg" alt="most commit language" />
-<img src="./github-profile-summary-cards-output/profile-summary-card-output/vue-dark/3-stats.svg" alt="stats" />
+<!-- Languages donut + pentagon (radar) side by side -->
+<img src="./github-profile-summary-cards-output/profile-summary-card-output/vue/1-repos-per-language.svg" alt="repos per language (donut)" width="49%" />
+<img src="./github-profile-summary-cards-output/profile-summary-card-output/vue/2-most-commit-language.svg" alt="most commit language (pentagon)" width="49%" />
 
-<!--
-NOTE: exact SVG filenames/paths depend on what each Action actually outputs on first run.
-After running the workflow once, check the Actions log or the repo file tree and adjust
-the <img src="..."> paths above to match if they differ.
--->
+<br/>
 
+<!-- All-time stats (commits/stars/forks since account creation) -->
+<img src="https://github-readme-stats.vercel.app/api?username=yufeiz6&include_all_commits=true&count_private=true&show_icons=true&theme=vue&hide_border=true" alt="all-time stats: commits, stars, contributions" width="60%" />
+
+<br/>
+
+<!-- Bottom card -->
+<img src="./github-profile-summary-cards-output/profile-summary-card-output/vue/4-productive-time.svg" alt="productive time" width="99%" />
+
+</div>
