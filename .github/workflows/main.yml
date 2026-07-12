@@ -30,3 +30,23 @@ jobs:
             git pull --rebase
             git push
           fi
+
+  profile-3d-contrib:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    needs: summary-cards          # run after summary-cards to avoid push conflicts
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generate 3d contrib"; then
+            git pull --rebase
+            git push
+          fi
